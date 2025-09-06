@@ -63,8 +63,7 @@ The final **Sales Insights Dashboard** became a key tool for the business, provi
 - **Actionable insights**: Stakeholders gained valuable insights that helped improve sales strategies and marketing efforts.
 - **Revenue growth**: By providing more visibility into sales patterns, the dashboard was expected to boost revenue by at least **7%** in the upcoming quarter.
 
-## Demo Video
-For a walkthrough of the dashboard, check out this [YouTube video](https://www.youtube.com/watch?v=hhZ62IlTxYs&list=PLeo1K3hjS3uva8pk1FI3iK9kCOKQdz1I9&ab_channel=codebasics).
+
 
 ## Future Improvements
 - Incorporate machine learning models to predict future sales trends.
